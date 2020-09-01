@@ -1,0 +1,3 @@
+cat > textfile.txt
+chmod 641 textfile.txt
+(or chmod u=rw,g=r,o=x textfile.txtch)
