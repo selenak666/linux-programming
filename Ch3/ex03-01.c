@@ -1,5 +1,4 @@
 /* program ex03-01.c */
-
 #include <stdio.h>
 #include <sys/types.h>
 #include <fcntl.h>
