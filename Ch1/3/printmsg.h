@@ -1,5 +1,4 @@
-#include  <stdio.h>
+// declearing a function
+#include <stdio.h>
 
-void printmsg(void){
-  printf("Hello World!\n");
-}
+void printmsg(void);
