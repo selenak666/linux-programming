@@ -1,5 +1,3 @@
-// one.c
-
 #include <stdio.h>
 #include "printmsg.h"
 
