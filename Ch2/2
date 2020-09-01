@@ -7,4 +7,4 @@ $fallocate -l $((100)) file1
 $ truncate -s 200 file2
 
 // create a 300byte file
-$ dd if=/dev/urandom of=file3 bs=300 count=1
+$ dd if=/dev/urandom of=file3 bs=300 count=1 
