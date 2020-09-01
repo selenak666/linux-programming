@@ -1,0 +1,6 @@
+current directory : /root/text
+
+cherry directory
+relative path : cd ../../root/home/cherry
+absolute path : /root/home/cherry
+
